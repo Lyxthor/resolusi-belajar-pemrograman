@@ -1,11 +1,10 @@
 Daftar hardskills yang ingin dipelajari
-- Typescript
 - Javascript
   * Javascript Framework
     ^ React/Next.JS
     ^ Angular
     ^ Vue
-    ^ JQuery
+    ^ Node.js
 - PHP
  * Basic PHP
  * PHP Frameworks
