@@ -4,7 +4,11 @@ Daftar hardskills yang ingin dipelajari
   * Javascript Framework
     ^ React/Next.JS
     ^ Angular
+    ^ Vue
+    ^ JQuery
 - PHP
  * Basic PHP
  * PHP Frameworks
   - Codeigniter
+  - Laravel
+- Python
