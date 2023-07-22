@@ -9,3 +9,5 @@ Daftar hardskills yang ingin dipelajari
  * Basic PHP
  * PHP Frameworks
   - Codeigniter
+  - Laravel
+- Python
